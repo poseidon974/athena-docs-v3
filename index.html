@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Redirecting…</title>
+  <script>
+    (function () {
+      const lang = navigator.language || navigator.userLanguage || 'en';
+      if (lang.startsWith('fr')) {
+        window.location.replace('/fr/');
+      } else {
+        window.location.replace('/en/');
+      }
+    })();
+  </script>
+</head>
+<body>
+  <noscript>
+    <meta http-equiv="refresh" content="0; url=/en/" />
+  </noscript>
+</body>
+</html>
