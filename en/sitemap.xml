@@ -31,6 +31,27 @@
         <loc>https://docs.athena-bot.xyz/en/Change_logs/V.3.X/V3.0.0/</loc>
       </url>
       <url>
+        <loc>https://docs.athena-bot.xyz/en/Clans/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Clans/add_clan/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Clans/delete_clan/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Clans/link/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Clans/showlink/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Clans/unlink/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Clans/view_clan/</loc>
+      </url>
+      <url>
         <loc>https://docs.athena-bot.xyz/en/Contacts/contact/</loc>
       </url>
       <url>
@@ -134,5 +155,17 @@
       </url>
       <url>
         <loc>https://docs.athena-bot.xyz/en/Mod%C3%A8les/guerres/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Mod%C3%A9ration/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Mod%C3%A9ration/ban/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Mod%C3%A9ration/kick/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Mod%C3%A9ration/unban/</loc>
       </url>
 </urlset>
