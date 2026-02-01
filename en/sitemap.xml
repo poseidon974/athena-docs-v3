@@ -133,6 +133,27 @@
         <loc>https://docs.athena-bot.xyz/en/Guerres/war_gsheet_setup/</loc>
       </url>
       <url>
+        <loc>https://docs.athena-bot.xyz/en/Ligues/config_role/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Ligues/config_rooms/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Ligues/gsheet_role_sync/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Ligues/gsheet_setup/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Ligues/gsheet_sync_clans/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Ligues/gsheet_sync_data/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Ligues/gsheet_sync_players/</loc>
+      </url>
+      <url>
         <loc>https://docs.athena-bot.xyz/en/Ligues/new_league/</loc>
       </url>
       <url>
@@ -143,6 +164,12 @@
       </url>
       <url>
         <loc>https://docs.athena-bot.xyz/en/Ligues/register_clan/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Ligues/send_dispatch_rooms/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/Ligues/synchro_11h/</loc>
       </url>
       <url>
         <loc>https://docs.athena-bot.xyz/en/Ligues/unparticipate_league/</loc>
