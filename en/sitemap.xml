@@ -115,24 +115,6 @@
         <loc>https://docs.athena-bot.xyz/en/Esport/show_manager/</loc>
       </url>
       <url>
-        <loc>https://docs.athena-bot.xyz/en/Guerres/hr_war/</loc>
-      </url>
-      <url>
-        <loc>https://docs.athena-bot.xyz/en/Guerres/scrutings_clans/</loc>
-      </url>
-      <url>
-        <loc>https://docs.athena-bot.xyz/en/Guerres/show_clans/</loc>
-      </url>
-      <url>
-        <loc>https://docs.athena-bot.xyz/en/Guerres/sync_data/</loc>
-      </url>
-      <url>
-        <loc>https://docs.athena-bot.xyz/en/Guerres/synchro_11h/</loc>
-      </url>
-      <url>
-        <loc>https://docs.athena-bot.xyz/en/Guerres/war_gsheet_setup/</loc>
-      </url>
-      <url>
         <loc>https://docs.athena-bot.xyz/en/Ligues/config_role/</loc>
       </url>
       <url>
@@ -178,21 +160,39 @@
         <loc>https://docs.athena-bot.xyz/en/Ligues/unregister_clan/</loc>
       </url>
       <url>
-        <loc>https://docs.athena-bot.xyz/en/Mod%C3%A8les/League/</loc>
+        <loc>https://docs.athena-bot.xyz/en/Models/League/</loc>
       </url>
       <url>
-        <loc>https://docs.athena-bot.xyz/en/Mod%C3%A8les/guerres/</loc>
+        <loc>https://docs.athena-bot.xyz/en/Models/guerres/</loc>
       </url>
       <url>
-        <loc>https://docs.athena-bot.xyz/en/Mod%C3%A9ration/</loc>
+        <loc>https://docs.athena-bot.xyz/en/Moderation/</loc>
       </url>
       <url>
-        <loc>https://docs.athena-bot.xyz/en/Mod%C3%A9ration/ban/</loc>
+        <loc>https://docs.athena-bot.xyz/en/Moderation/ban/</loc>
       </url>
       <url>
-        <loc>https://docs.athena-bot.xyz/en/Mod%C3%A9ration/kick/</loc>
+        <loc>https://docs.athena-bot.xyz/en/Moderation/kick/</loc>
       </url>
       <url>
-        <loc>https://docs.athena-bot.xyz/en/Mod%C3%A9ration/unban/</loc>
+        <loc>https://docs.athena-bot.xyz/en/Moderation/unban/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/War/hr_war/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/War/scrutings_clans/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/War/show_clans/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/War/sync_data/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/War/synchro_11h/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/en/War/war_gsheet_setup/</loc>
       </url>
 </urlset>
